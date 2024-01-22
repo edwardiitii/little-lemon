@@ -11,6 +11,11 @@ Here is some of the library/ SDK used in this project
 - **Maestro UI**: UI testing Framework
 
 ## Design & ScreenShots
+
+Figma file:
+
+[Download](https://github.com/edwardiitii/little-lemon/raw/main/LittleLemon/Figma/Little%20Lemon%20food.fig)
+
 screen flow:
 ![image](https://raw.githubusercontent.com/edwardiitii/little-lemon/main/LittleLemon/Figma/screenflow.png)https://raw.githubusercontent.com/edwardiitii/little-lemon/main/LittleLemon/Figma/screenflow.png)
 
