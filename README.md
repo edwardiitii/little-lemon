@@ -12,3 +12,10 @@ Here is some of the library/ SDK used in this project
 
 ## Design & ScreenShots
 screen flow:
+![image](https://raw.githubusercontent.com/edwardiitii/little-lemon/main/LittleLemon/Figma/screenflow.png)https://raw.githubusercontent.com/edwardiitii/little-lemon/main/LittleLemon/Figma/screenflow.png)
+
+Home Screen:
+![image](https://raw.githubusercontent.com/edwardiitii/little-lemon/main/LittleLemon/Figma/Home%20Screen.png) 
+
+Wireframe:
+![image](https://raw.githubusercontent.com/edwardiitii/little-lemon/main/LittleLemon/Figma/Home%20Screen%20Wireframe.png)
